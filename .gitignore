@@ -1,0 +1,5 @@
+src/config.py
+certs/
+build/
+__pycache__/
+*.mpy
